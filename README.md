@@ -4,11 +4,11 @@ Pothole detection from real time video stream or images with Python.
 YoloV4-Tiny and OpenCV used for this project.
 - Clone the repository.
 ```
-git clone https://github.com/noorkhokhar99/Avatar-mediapipe-opencv-python.git
+git clone https://github.com/noorkhokhar99/pothole-detection.git
 ```
 - Goto the cloned folder.
 ```
-cd Avatar-mediapipe-opencv-python
+cd pothole-detection
 
 ```
 - Upgrade pip with mentioned command below.
@@ -21,7 +21,7 @@ pip install -r requirements.txt
 ```
 - Run the code with mentioned command below.
 
-` python app.py`
+` python camera_video.py`
 
 
 
