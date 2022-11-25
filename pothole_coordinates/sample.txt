@@ -1,0 +1,1 @@
+this directory created for saving detected potholes and its coordinates (coordinate of device)
